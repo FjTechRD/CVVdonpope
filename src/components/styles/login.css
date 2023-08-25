@@ -1,0 +1,44 @@
+.login__form {
+  background-color: var(--loginCarColor);
+  color: var(--white);
+  max-width: 30rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  padding: 3rem 2rem;
+  display: flex;
+}
+
+.login-card__form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.form__section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-submit {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.login-submit button {
+  padding: 0.5rem 1rem;
+  border: none;
+  outline: none;
+  border-radius: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.changeCard {
+  display: none;
+}

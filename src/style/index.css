@@ -1,0 +1,22 @@
+:root {
+  --primaryColor: #636363;
+  --secundaryColor: ;
+  --btnColor: ;
+  --btnHoverColor: ;
+  --loginCarColor: #636363b3;
+  --white: #fff;
+  --black: #000;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+body {
+  font-size: 16px;
+}

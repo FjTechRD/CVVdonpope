@@ -1,0 +1,15 @@
+.credentials__page {
+  background-image: url(../assets/bglogin.avif);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.credentials__container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
